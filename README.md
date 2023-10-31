@@ -1,5 +1,5 @@
 ```
-Name:Ragavendran A
+Name: Ragavendran A
 Register Number: 212222230114
 ```
 # EXPERIMENT  03 SIMULATION OF PUSHBUTTON AND LED INTERFACE WITH ARM CONTROLLER AND PROTEUS 
@@ -184,10 +184,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of proteus  :
 ### BUTTON OFF
-<img src="https://github.com/Sanjay-2610/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/91368803/c5959f45-6412-4df7-a21c-649ade8087cb" height="475" width="475">
+<img src="https://github.com/Sanjay-2610/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/91368803/c5959f45-6412-4df7-a21c-649ade8087cb" height="450" width="450">
 
 ### BUTTON ON
-<img src="https://github.com/Sanjay-2610/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/91368803/f96870c8-6261-4476-9e68-b6df1c4ee8bc" height="475" width="475">
+<img src="https://github.com/Sanjay-2610/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/91368803/f96870c8-6261-4476-9e68-b6df1c4ee8bc" height="450" width="450">
 
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
